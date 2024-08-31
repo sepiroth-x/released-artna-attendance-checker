@@ -33,7 +33,7 @@ The necessary HEADER TAGS of the masterlist file (.txt):
 [schedule:]
 [type:]
 
-the above tag are the exact symbols being read by the software to load contents of a masterlist file.
+the above tags are the exact symbols being read by the software to load contents of a masterlist file.
 
 Example tag:
 [section:2-Loyalty]
