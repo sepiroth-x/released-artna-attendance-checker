@@ -1,0 +1,9 @@
+To run the application, JRE is needed to be installed in your system.
+For linux and MacOS, click this link and download the appropriate JRE file for your system.
+
+https://www.java.com/en/download/manual.jsp
+
+
+
+Credits: Sepiroth X
+Support Gcash: 09150388448
